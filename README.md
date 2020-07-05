@@ -21,7 +21,7 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/ruc_2000_chi.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/道路使用者守則.jpg" alt="道路使用者守則" width="200"></td>
+	<td align="center" nowrap="nowrap"><img src="Img/Road%20Users'%20Code.jpg" alt="道路使用者守則" width="200"></td>
 	<td align="center" nowrap="nowrap"> // </td>
 	<td align="center" nowrap="nowrap">Road Users' Code</td>
 	<td align="center" nowrap="nowrap">2000</td>
