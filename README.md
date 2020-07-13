@@ -56,7 +56,7 @@
 </tr>
 <tr>
 	<td align="center" nowrap="nowrap"><img src="Img/香港城邦論_2.JPG" alt="香港城邦論_2" width="150"></td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">9789881681041</td>
 	<td align="center" nowrap="nowrap">香港城邦論II——光復本土</td>
 	<td align="center" nowrap="nowrap">陳雲</td>
 	<td align="center" nowrap="nowrap">2014 第二版</td>
@@ -74,12 +74,26 @@
 	<td align="center" nowrap="nowrap"><img src="Img/真實烏托邦.JPG" alt="真實烏托邦" width="150"></td>
 	<td align="center" nowrap="nowrap">9789866525896</td>
 	<td align="center" nowrap="nowrap">真實烏托邦</td>
-	<td align="center" nowrap="nowrap">Erik Olin Wright<br>譯者： 黃克先</td>
+	<td align="center" nowrap="nowrap">Erik Olin Wright<br>譯者：黃克先</td>
 	<td align="center" nowrap="nowrap">2015</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/">下載</a></td>
 </tr>
-
-
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/香港簡史.JPG" alt="香港簡史——從殖民地至特別行政區" width="150"></td>
+	<td align="center" nowrap="nowrap">9789888263202</td>
+	<td align="center" nowrap="nowrap">香港簡史——從殖民地至特別行政區</td>
+	<td align="center" nowrap="nowrap">John M. Carroll<br>譯者：林立偉</td>
+	<td align="center" nowrap="nowrap">2013 再版</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/香港簡史.JPG" alt="香港簡史——從殖民地至特別行政區" width="150"></td>
+	<td align="center" nowrap="nowrap">9789888263202</td>
+	<td align="center" nowrap="nowrap">香港簡史——從殖民地至特別行政區</td>
+	<td align="center" nowrap="nowrap">John M. Carroll<br>譯者：林立偉</td>
+	<td align="center" nowrap="nowrap">2013 再版</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/">下載</a></td>
+</tr>
 
 </tbody>
 </table>
