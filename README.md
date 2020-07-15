@@ -84,7 +84,7 @@
 	<td align="center" nowrap="nowrap">香港簡史——從殖民地至特別行政區</td>
 	<td align="center" nowrap="nowrap">John M. Carroll<br>譯者：林立偉</td>
 	<td align="center" nowrap="nowrap">2013 再版</td>
-	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/">下載</a></td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789888263202.pdf">下載</a></td>
 </tr>
 <tr>
 	<td align="center" nowrap="nowrap"><img src="Img/阿Q正傳.jpg" alt="阿Q正傳" width="150"></td>
