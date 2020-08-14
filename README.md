@@ -108,7 +108,7 @@
 	<td align="center" nowrap="nowrap">HTML & CSS 網站設計建置優化之道</td>
 	<td align="center" nowrap="nowrap">Jon Duckett<br>譯者：張雅芳</td>
 	<td align="center" nowrap="nowrap">2012</td>
-	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789862765012.pdf">下載</a></td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/HTML.and.CSS.Design.and.Build.Websites.pdf">下載</a></td>
 </tr>
 </tbody>
 </table>
