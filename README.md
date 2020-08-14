@@ -103,7 +103,7 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/OldMasterQ.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/老夫子.jpg" alt="老夫子" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="Img/HTML%20&%20CSS_網站設計建置優化之道.JPG" alt="老夫子" width="500"></td>
 	<td align="center" nowrap="nowrap">9789862765012</td>
 	<td align="center" nowrap="nowrap">HTML & CSS 網站設計建置優化之道</td>
 	<td align="center" nowrap="nowrap">Jon Duckett<br>譯者：張雅芳</td>
