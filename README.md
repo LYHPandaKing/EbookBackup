@@ -110,5 +110,13 @@
 	<td align="center" nowrap="nowrap">2012</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/HTML.and.CSS.Design.and.Build.Websites.pdf">下載</a></td>
 </tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/地下陣線.PNG" alt="地下陣線" width="500"></td>
+	<td align="center" nowrap="nowrap">9789888028696</td>
+	<td align="center" nowrap="nowrap">地下陣線：中共在香港的歴史【節選】</td>
+	<td align="center" nowrap="nowrap">陸恭蕙</td>
+	<td align="center" nowrap="nowrap">2011</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789888028696_Part.pdf">下載</a></td>
+</tr>
 </tbody>
 </table>
