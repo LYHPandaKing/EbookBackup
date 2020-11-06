@@ -118,5 +118,13 @@
 	<td align="center" nowrap="nowrap">2011</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789888028696_Part.pdf">下載</a></td>
 </tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/MEG電腦化筆試練習.jpg" alt="MEG電腦化筆試練習" width="500"></td>
+	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap">MEG電腦化筆試練習</td>
+	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap">2020</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/MEG_Computerized_Written_Test_Exercise.pdf">下載</a></td>
+</tr>
 </tbody>
 </table>
