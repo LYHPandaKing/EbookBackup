@@ -111,6 +111,39 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/HTML.and.CSS.Design.and.Build.Websites.pdf">下載</a></td>
 </tr>
 <tr>
+	<td align="center" nowrap="nowrap"><img src="Img/MEG電腦化筆試練習.jpg" alt="MEG電腦化筆試練習" width="500"></td>
+	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap">MEG電腦化筆試練習</td>
+	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap">2020</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/MEG_Computerized_Written_Test_Exercise.pdf">下載</a></td>
+</tr>
+</tbody>
+</table>
+
+#### 歷史類
+
+<table>
+<thead>
+<tr>
+<th>封面</th>
+<th>ISBN</th>
+<th>書名</th>
+<th>作者</th>
+<th>出版年份</th>
+<th>下載</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/香港六七暴動始末.JPG" alt="香港六七暴動始末" width="500"></td>
+	<td align="center" nowrap="nowrap">9780190974732</td>
+	<td align="center" nowrap="nowrap">香港六七暴動始末──解讀吳荻舟</td>
+	<td align="center" nowrap="nowrap">程翔</td>
+	<td align="center" nowrap="nowrap">2018</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9780190974732.pdf">下載</a></td>
+</tr>
+<tr>
 	<td align="center" nowrap="nowrap"><img src="Img/地下陣線.PNG" alt="地下陣線" width="500"></td>
 	<td align="center" nowrap="nowrap">9789888028696</td>
 	<td align="center" nowrap="nowrap">地下陣線：中共在香港的歴史【節選】</td>
@@ -119,12 +152,36 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789888028696_Part.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/MEG電腦化筆試練習.jpg" alt="MEG電腦化筆試練習" width="500"></td>
-	<td align="center" nowrap="nowrap">//</td>
-	<td align="center" nowrap="nowrap">MEG電腦化筆試練習</td>
-	<td align="center" nowrap="nowrap">//</td>
-	<td align="center" nowrap="nowrap">2020</td>
-	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/MEG_Computerized_Written_Test_Exercise.pdf">下載</a></td>
+	<td align="center" nowrap="nowrap"><img src="Img/六七暴動_香港戰後歷史的分水嶺.JPG" alt="六七暴動:香港戰後歷史的分水嶺" width="500"></td>
+	<td align="center" nowrap="nowrap">9789888083961</td>
+	<td align="center" nowrap="nowrap">六七暴動:香港戰後歷史的分水嶺</td>
+	<td align="center" nowrap="nowrap">張家偉</td>
+	<td align="center" nowrap="nowrap">2012</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789888083961.pdf">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/香港六七暴動內情.png" alt="香港六七暴動內情" width="500"></td>
+	<td align="center" nowrap="nowrap">9789628274291</td>
+	<td align="center" nowrap="nowrap">香港六七暴動內情</td>
+	<td align="center" nowrap="nowrap">張家偉</td>
+	<td align="center" nowrap="nowrap">2000</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789628274291.pdf">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/香港1967.JPG" alt="香港，1967" width="500"></td>
+	<td align="center" nowrap="nowrap">9789882198432</td>
+	<td align="center" nowrap="nowrap">香港，1967</td>
+	<td align="center" nowrap="nowrap">余汝信</td>
+	<td align="center" nowrap="nowrap">2012</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789882198432.pdf">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/我們必勝港英必敗.JPG" alt="我們必勝港英必敗" width="500"></td>
+	<td align="center" nowrap="nowrap"> // </td>
+	<td align="center" nowrap="nowrap">我們必勝港英必敗</td>
+	<td align="center" nowrap="nowrap">大公報</td>
+	<td align="center" nowrap="nowrap">1967</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/WeShallWin_TaKungPao_1967.pdf">下載</a></td>
 </tr>
 </tbody>
 </table>
