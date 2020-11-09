@@ -176,7 +176,7 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789882198432.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/我們必勝港英必敗.JPG" alt="我們必勝港英必敗" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="Img/我們必勝港英必敗.png" alt="我們必勝港英必敗" width="500"></td>
 	<td align="center" nowrap="nowrap"> // </td>
 	<td align="center" nowrap="nowrap">我們必勝港英必敗</td>
 	<td align="center" nowrap="nowrap">大公報</td>
