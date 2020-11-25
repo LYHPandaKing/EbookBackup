@@ -118,6 +118,22 @@
 	<td align="center" nowrap="nowrap">2020</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/MEG_Computerized_Written_Test_Exercise.pdf">下載</a></td>
 </tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/MEG筆試增訂附錄.jpg" alt="MEG筆試增訂附錄" width="500"></td>
+	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap">MEG電腦化筆試練習 增訂附錄</td>
+	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap">2020</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/MEG_Supplement.pdf">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="Img/MEG筆試2020整合.jpg" alt="MEG筆試2020整合" width="500"></td>
+	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap">MEG電腦化筆試練習 2020整合版</td>
+	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap">2020</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/MEG_Computerized_Written_Test_Exercise_June2020.pdf">下載</a></td>
+</tr>
 </tbody>
 </table>
 
