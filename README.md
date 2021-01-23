@@ -144,12 +144,12 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/HTML.and.CSS.Design.and.Build.Websites.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="" alt="Javascript" width="500"></td>
-	<td align="center" nowrap="nowrap">9789862765012</td>
-	<td align="center" nowrap="nowrap">HTML & CSS 網站設計建置優化之道</td>
-	<td align="center" nowrap="nowrap">Jon Duckett<br>譯者：張雅芳</td>
-	<td align="center" nowrap="nowrap">2012</td>
-	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/HTML.and.CSS.Design.and.Build.Websites.pdf">下載</a></td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560475-bfb3dc80-5d4e-11eb-9d3a-f4aa2528fa4c.jpeg" alt="Javascript" width="500"></td>
+	<td align="center" nowrap="nowrap">9781593279509</td>
+	<td align="center" nowrap="nowrap">Eloquent JavaScript 3rd edition</td>
+	<td align="center" nowrap="nowrap">Marijn Haverbeke</td>
+	<td align="center" nowrap="nowrap">2018</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/Eloquent_JavaScript.pdf">下載</a></td>
 </tr>
 </tbody>
 </table>
@@ -171,7 +171,7 @@
 </thead>
 <tbody>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/香港六七暴動始末.JPG" alt="香港六七暴動始末" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560554-0dc8e000-5d4f-11eb-95b1-cc406d5f9881.JPG" alt="香港六七暴動始末" width="500"></td>
 	<td align="center" nowrap="nowrap">9780190974732</td>
 	<td align="center" nowrap="nowrap">香港六七暴動始末──解讀吳荻舟</td>
 	<td align="center" nowrap="nowrap">程翔</td>
@@ -179,7 +179,7 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9780190974732.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/地下陣線.PNG" alt="地下陣線" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560586-23d6a080-5d4f-11eb-887f-5c37846f75db.PNG" alt="地下陣線" width="500"></td>
 	<td align="center" nowrap="nowrap">9789888028696</td>
 	<td align="center" nowrap="nowrap">地下陣線：中共在香港的歴史【節選】</td>
 	<td align="center" nowrap="nowrap">陸恭蕙</td>
@@ -187,7 +187,7 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789888028696_Part.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/六七暴動_香港戰後歷史的分水嶺.JPG" alt="六七暴動:香港戰後歷史的分水嶺" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560601-34871680-5d4f-11eb-8586-f6442abacd88.JPG" alt="六七暴動:香港戰後歷史的分水嶺" width="500"></td>
 	<td align="center" nowrap="nowrap">9789888083961</td>
 	<td align="center" nowrap="nowrap">六七暴動:香港戰後歷史的分水嶺</td>
 	<td align="center" nowrap="nowrap">張家偉</td>
@@ -195,7 +195,7 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789888083961.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/香港六七暴動內情.png" alt="香港六七暴動內情" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560620-45d02300-5d4f-11eb-9b81-a0de68b1e1f2.png" alt="香港六七暴動內情" width="500"></td>
 	<td align="center" nowrap="nowrap">9789628274291</td>
 	<td align="center" nowrap="nowrap">香港六七暴動內情</td>
 	<td align="center" nowrap="nowrap">張家偉</td>
@@ -203,7 +203,7 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789628274291.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/香港1967.JPG" alt="香港，1967" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560630-554f6c00-5d4f-11eb-8f9a-7133584428ab.JPG" alt="香港，1967" width="500"></td>
 	<td align="center" nowrap="nowrap">9789882198432</td>
 	<td align="center" nowrap="nowrap">香港，1967</td>
 	<td align="center" nowrap="nowrap">余汝信</td>
@@ -211,12 +211,28 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789882198432.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="Img/我們必勝港英必敗.png" alt="我們必勝港英必敗" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560649-65674b80-5d4f-11eb-9f1e-68d7a45a9614.png" alt="我們必勝港英必敗" width="500"></td>
 	<td align="center" nowrap="nowrap"> // </td>
 	<td align="center" nowrap="nowrap">我們必勝港英必敗</td>
 	<td align="center" nowrap="nowrap">大公報</td>
 	<td align="center" nowrap="nowrap">1967</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/WeShallWin_TaKungPao_1967.pdf">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105559128-567e9a00-5d4b-11eb-914a-2a45e4ab94ff.jpeg" alt="圖解日本史" width="500"></td>
+	<td align="center" nowrap="nowrap">9867881737</td>
+	<td align="center" nowrap="nowrap">圖解日本史(修訂版)</td>
+	<td align="center" nowrap="nowrap">易博士出版社</td>
+	<td align="center" nowrap="nowrap">2007</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/illustration.of.japanese.history.pdf">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105559169-6eeeb480-5d4b-11eb-92f2-43589dc6e819.jpeg" alt="圖解江戶時代" width="500"></td>
+	<td align="center" nowrap="nowrap">9789866434020</td>
+	<td align="center" nowrap="nowrap">圖解江戶時代</td>
+	<td align="center" nowrap="nowrap">河合 敦<br>譯者：黃秋鳳</td>
+	<td align="center" nowrap="nowrap">2009</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/illustration.of.edo.period.pdf">下載</a></td>
 </tr>
 </tbody>
 </table>
