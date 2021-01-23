@@ -242,5 +242,11 @@
 	<td align="center" nowrap="nowrap">2009</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/illustration.of.edo.period.pdf">下載</a></td>
 </tr>
-</tbody>
-</table>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105562186-3acbc180-5d54-11eb-83e5-f10dde7146c6.jpeg" alt="Routledge Handbook of Contemporary Hong Kong" width="500"></td>
+	<td align="center" nowrap="nowrap">9780367580605</td>
+	<td align="center" nowrap="nowrap">Routledge Handbook of Contemporary Hong Kong</td>
+	<td align="center" nowrap="nowrap">Tai-lok Lui<br>Stephen W.K. Chiu<br>Ray Yep</td>
+	<td align="center" nowrap="nowrap">2020</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/Routledge.Handbook.of.Contemporary.Hong.Kong.pdf">下載</a></td>
+</tr>
