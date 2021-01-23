@@ -222,7 +222,7 @@
 	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105559128-567e9a00-5d4b-11eb-914a-2a45e4ab94ff.jpeg" alt="圖解日本史" width="500"></td>
 	<td align="center" nowrap="nowrap">9867881737</td>
 	<td align="center" nowrap="nowrap">圖解日本史(修訂版)</td>
-	<td align="center" nowrap="nowrap">易博士出版社</td>
+	<td align="center" nowrap="nowrap">武光誠<br>譯者：陳念雍</td>
 	<td align="center" nowrap="nowrap">2007</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/illustration.of.japanese.history.pdf">下載</a></td>
 </tr>
