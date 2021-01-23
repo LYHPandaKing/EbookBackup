@@ -77,14 +77,6 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789866525896.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105559650-add13a00-5d4c-11eb-86f8-944bd2934d27.jpg" alt="香港簡史——從殖民地至特別行政區" width="500"></td>
-	<td align="center" nowrap="nowrap">9789888263202</td>
-	<td align="center" nowrap="nowrap">香港簡史——從殖民地至特別行政區</td>
-	<td align="center" nowrap="nowrap">John M. Carroll<br>譯者：林立偉</td>
-	<td align="center" nowrap="nowrap">2013 再版</td>
-	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789888263202.pdf">下載</a></td>
-</tr>
-<tr>
 	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105559672-baee2900-5d4c-11eb-99bd-54cf5b0ed420.jpg" alt="阿Q正傳" width="500"></td>
 	<td align="center" nowrap="nowrap"> // </td>
 	<td align="center" nowrap="nowrap">阿Q正傳</td>
@@ -102,19 +94,27 @@
 </tr>
 <tr>
 	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560060-c1c96b80-5d4d-11eb-8caa-d0a752b0fc11.jpg" alt="MEG電腦化筆試練習" width="500"></td>
-	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap"> // </td>
 	<td align="center" nowrap="nowrap">MEG電腦化筆試練習</td>
-	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap"> // </td>
 	<td align="center" nowrap="nowrap">2020</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/MEG_Computerized_Written_Test_Exercise.pdf">下載</a></td>
 </tr>
 <tr>
 	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560096-d86fc280-5d4d-11eb-9f9b-4dcd75c646f9.jpg" alt="MEG筆試增訂附錄" width="500"></td>
-	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap"> // </td>
 	<td align="center" nowrap="nowrap">MEG電腦化筆試練習 增訂附錄</td>
-	<td align="center" nowrap="nowrap">//</td>
+	<td align="center" nowrap="nowrap"> // </td>
 	<td align="center" nowrap="nowrap">2020</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/MEG_Supplement.pdf">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105561993-731ed000-5d53-11eb-9bc9-c6e0bf2f948e.jpeg" alt="1984" width="500"></td>
+	<td align="center" nowrap="nowrap"> // </td>
+	<td align="center" nowrap="nowrap">1984</td>
+	<td align="center" nowrap="nowrap">George Orwell</td>
+	<td align="center" nowrap="nowrap">1949</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/1984.George-Orwell.pdf">下載</a></td>
 </tr>
 </tbody>
 </table>
@@ -217,6 +217,14 @@
 	<td align="center" nowrap="nowrap">大公報</td>
 	<td align="center" nowrap="nowrap">1967</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/WeShallWin_TaKungPao_1967.pdf">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105559650-add13a00-5d4c-11eb-86f8-944bd2934d27.jpg" alt="香港簡史——從殖民地至特別行政區" width="500"></td>
+	<td align="center" nowrap="nowrap">9789888263202</td>
+	<td align="center" nowrap="nowrap">香港簡史——從殖民地至特別行政區</td>
+	<td align="center" nowrap="nowrap">John M. Carroll<br>譯者：林立偉</td>
+	<td align="center" nowrap="nowrap">2013 再版</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/9789888263202.pdf">下載</a></td>
 </tr>
 <tr>
 	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105559128-567e9a00-5d4b-11eb-914a-2a45e4ab94ff.jpeg" alt="圖解日本史" width="500"></td>
