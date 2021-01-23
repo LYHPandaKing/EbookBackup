@@ -151,6 +151,22 @@
 	<td align="center" nowrap="nowrap">2018</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/Eloquent_JavaScript.pdf">下載</a></td>
 </tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="" alt="Javascript_3rdEditon" width="500"></td>
+	<td align="center" nowrap="nowrap">9787115275790</td>
+	<td align="center" nowrap="nowrap">JavaScript高级程序设计（第3版）</td>
+	<td align="center" nowrap="nowrap">Nicholas C.Zakas<br>譯者：李松峰、曹力</td>
+	<td align="center" nowrap="nowrap">2012</td>
+	<td align="center" nowrap="nowrap"><a href="">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="" alt="Javascript" width="500"></td>
+	<td align="center" nowrap="nowrap">9787115275790</td>
+	<td align="center" nowrap="nowrap">JavaScript设计模式</td>
+	<td align="center" nowrap="nowrap">Nicholas C.Zakas<br>譯者：李松峰、曹力</td>
+	<td align="center" nowrap="nowrap">2012</td>
+	<td align="center" nowrap="nowrap"><a href="">下載</a></td>
+</tr>
 </tbody>
 </table>
 
