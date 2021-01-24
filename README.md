@@ -144,7 +144,7 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/HTML.and.CSS.Design.and.Build.Websites.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560475-bfb3dc80-5d4e-11eb-9d3a-f4aa2528fa4c.jpeg" alt="Javascript" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105560475-bfb3dc80-5d4e-11eb-9d3a-f4aa2528fa4c.jpeg" alt="Eloquent_JavaScript" width="500"></td>
 	<td align="center" nowrap="nowrap">9781593279509</td>
 	<td align="center" nowrap="nowrap">Eloquent JavaScript 3rd edition</td>
 	<td align="center" nowrap="nowrap">Marijn Haverbeke</td>
@@ -152,20 +152,28 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/Eloquent_JavaScript.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="" alt="Javascript_3rdEditon" width="500"></td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105618776-19d3a100-5e26-11eb-9c27-80652687ab1d.jpeg" alt="Javascript_3rdEditon" width="500"></td>
 	<td align="center" nowrap="nowrap">9787115275790</td>
 	<td align="center" nowrap="nowrap">JavaScript高级程序设计（第3版）</td>
 	<td align="center" nowrap="nowrap">Nicholas C.Zakas<br>譯者：李松峰、曹力</td>
 	<td align="center" nowrap="nowrap">2012</td>
-	<td align="center" nowrap="nowrap"><a href="">下載</a></td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/JavaScript.3rdEdition.pdf">下載</a></td>
 </tr>
 <tr>
-	<td align="center" nowrap="nowrap"><img src="" alt="Javascript" width="500"></td>
-	<td align="center" nowrap="nowrap">9787115275790</td>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105618838-e0e7fc00-5e26-11eb-8597-3f4e1f1419e6.jpeg" alt="Pro_JavaScript_Design_Patterns_CN" width="500"></td>
+	<td align="center" nowrap="nowrap">9787115191281</td>
 	<td align="center" nowrap="nowrap">JavaScript设计模式</td>
-	<td align="center" nowrap="nowrap">Nicholas C.Zakas<br>譯者：李松峰、曹力</td>
-	<td align="center" nowrap="nowrap">2012</td>
-	<td align="center" nowrap="nowrap"><a href="">下載</a></td>
+	<td align="center" nowrap="nowrap">Ross Harmes<br>Dustin Diaz<br>譯者：谢廷晟</td>
+	<td align="center" nowrap="nowrap">2009</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/Pro_JavaScript_Design_Patterns_CN.pdf">下載</a></td>
+</tr>
+<tr>
+	<td align="center" nowrap="nowrap"><img src="https://user-images.githubusercontent.com/35364533/105618904-c06c7180-5e27-11eb-8c1a-f284da3b50d9.jpeg" alt="Javascript" width="500"></td>
+	<td align="center" nowrap="nowrap">9787508355948</td>
+	<td align="center" nowrap="nowrap">css权威指南（第三版）</td>
+	<td align="center" nowrap="nowrap">Eric A. Meyer<br>譯者：尹志忠、侯妍</td>
+	<td align="center" nowrap="nowrap">2008</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/LYHPandaKing/EbookBackup/releases/download/Ebook/css_The_Definitive_Guide_CN.pdf">下載</a></td>
 </tr>
 </tbody>
 </table>
